@@ -1,5 +1,5 @@
 {
-  "entrypoint": "world.cepi.example.ExampleExtension",
-  "name": "ExampleExtension",
-  "version": "1.0.0-EXAMPLE"
+  "entrypoint": "world.cepi.movement.MovementExtension",
+  "name": "Movement-Abilities",
+  "version": "0.0.1"
 }
