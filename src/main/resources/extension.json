@@ -1,5 +1,5 @@
 {
   "entrypoint": "world.cepi.movement.MovementExtension",
-  "name": "Movement-Abilities",
+  "name": "MovementExtension",
   "version": "0.0.1"
 }
