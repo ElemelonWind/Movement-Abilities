@@ -13,5 +13,4 @@ class MovementExtension : Extension() {
     override fun terminate() {
         logger.info("[Movement-Abilities] has been disabled!")
     }
-//why isn't it committing??
 }
