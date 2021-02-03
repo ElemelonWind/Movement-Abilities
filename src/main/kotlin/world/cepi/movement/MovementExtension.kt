@@ -1,6 +1,8 @@
 package world.cepi.movement
 
-import net.minestom.server.movement.MovementExtension;
+import net.minestom.server.extensions.Extension
+
+//import net.minestom.server.movement.MovementExtension;
 
 class MovementExtension : Extension() {
 
