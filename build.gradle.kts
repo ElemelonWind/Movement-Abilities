@@ -40,6 +40,9 @@ dependencies {
 
     // import kotlinx serialization
     compileOnly("org.jetbrains.kotlinx:kotlinx-serialization-json:1.0.1")
+
+    // Get KStom
+    implementation("com.github.Project-Cepi:KStom:4fc7563d18")
 }
 
 tasks.withType<Test> {
